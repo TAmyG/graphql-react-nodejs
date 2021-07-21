@@ -28,6 +28,12 @@ const httpLink = ApolloLink.from([
 const wsLink = new WebSocketLink({
     uri: wsUrl,
     options: {
+        connectionParams: () => {
+            return {
+                //Added arrow function to prevent get null token at the application start
+                accessToken: getAccessToken(),
+            };
+        },
         lazy: true,
         reconnect: true,
     },
