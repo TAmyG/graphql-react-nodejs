@@ -3,5 +3,115 @@
     "id": "SJKhIAKYB",
     "from": "system",
     "text": "Welcome!"
+  },
+  {
+    "id": "HJrM60H0_",
+    "from": "bob",
+    "text": "hi"
+  },
+  {
+    "id": "rkpGp0HAu",
+    "from": "bob",
+    "text": "how are you"
+  },
+  {
+    "id": "S10vRRSRu",
+    "from": "bob",
+    "text": "afasdf"
+  },
+  {
+    "id": "ByOnBZUAd",
+    "from": "bob",
+    "text": "hello"
+  },
+  {
+    "id": "rkuXUZUAd",
+    "from": "bob",
+    "text": "hi"
+  },
+  {
+    "id": "S1ypqZLCd",
+    "from": "bob",
+    "text": "hi"
+  },
+  {
+    "id": "rypS3WLRO",
+    "from": "bob",
+    "text": "hi"
+  },
+  {
+    "id": "B1Jw2ZI0d",
+    "from": "bob",
+    "text": "aw"
+  },
+  {
+    "id": "BJX5a-UCd",
+    "from": "bob",
+    "text": "hola"
+  },
+  {
+    "id": "Bk69TW8R_",
+    "from": "bob",
+    "text": "1"
+  },
+  {
+    "id": "BJYp6ZIRd",
+    "from": "alice",
+    "text": "hi bob"
+  },
+  {
+    "id": "Hyg0TbICu",
+    "from": "bob",
+    "text": "hi alice"
+  },
+  {
+    "id": "BkVRTbLR_",
+    "from": "bob",
+    "text": "who are you doing"
+  },
+  {
+    "id": "SJYkAbIAu",
+    "from": "alice",
+    "text": "amazing, yesterday i ate spaguettis and was delicious"
+  },
+  {
+    "id": "HyHhCZUA_",
+    "from": "bob",
+    "text": "nice, I'm starving right now. I feel like eating spaghetti too"
+  },
+  {
+    "id": "ryiVWzIC_",
+    "from": "alice",
+    "text": "hahaha you are so funny"
+  },
+  {
+    "id": "rJTHZGUR_",
+    "from": "alice",
+    "text": "hey"
+  },
+  {
+    "id": "SJb8-GLAd",
+    "from": "alice",
+    "text": "are you there?"
+  },
+  {
+    "id": "B1s8ZGL0u",
+    "from": "bob",
+    "text": "yeah I'm here"
+  },
+  {
+    "id": "rJ-w-MU0d",
+    "from": "bob",
+    "text": "why?"
+  },
+  {
+    "id": "ry8wWM80u",
+    "from": "alice",
+    "text": "for nothing"
+  },
+  {
+    "id": "H1Ru-f8A_",
+    "from": "alice",
+    "text": "i supposed that you leave the chat room"
   }
 ]
